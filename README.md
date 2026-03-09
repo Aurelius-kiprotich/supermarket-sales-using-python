@@ -1,8 +1,9 @@
 Supermarket Sales Analysis
+
 Project Overview
+
 This project performs an Exploratory Data Analysis (EDA) on a supermarket sales dataset to uncover key insights into customer behavior and sales performance. The goal is to provide actionable recommendations for optimizing sales strategies and improving customer experience. 
-GitHub
-GitHub
+
 
 Key Objectives
 Identify the highest-performing branches and cities.
